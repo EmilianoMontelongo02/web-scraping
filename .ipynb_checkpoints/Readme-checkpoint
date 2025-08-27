@@ -1,0 +1,16 @@
+## ESTE ES UN EJEMPLO PRACTICO DONDE APRENDO A USAR SELENIUM
+
+
+# Si bien, no es lo mejor, en cuestion de funcionalidad es efectivo.
+
+# Probé como ingresar un usuario, usando la visualizacion de estos
+# fueron referenciados dentro de cada variable y asi efectuanado 
+# el resultado desesado.
+
+# Una vez ingresado, procedemos a hacer una iteracion sobre cada
+# cada item, obteniendo en este caso, titulo del producto, url de img,
+# costó, entonces, usamos pandas para crear un archivo csv, permitiendonos
+# organizar los datos por celdas, esto es muy efectivo para automatizar 
+# tareas realmente tardadas.
+
+# url de la pagina: [text](https://www.saucedemo.com/)
